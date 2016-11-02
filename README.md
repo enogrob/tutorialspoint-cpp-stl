@@ -3,7 +3,7 @@ Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
-# Tutorialspoint C++ Tutorial
+# Tutorialspoint C++ STL
 
 ![ebook cover](images/tutorialspoint-cpp-stl.png)
 
@@ -11,7 +11,7 @@ Solution Integrator Experienced - Certified by Ericsson
 
 This is to grasp rapidly the language and its concepts.
 
-[C++ Tutorial](https://www.tutorialspoint.com/cplusplus/index.htm)
+[C++ Tutorial](https://www.tutorialspoint.com/cpp_standard_library/index.htm)
 
 #### Topics
 ```

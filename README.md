@@ -45,8 +45,8 @@ The C++ Standard Library
 [ ] C++ Library - <valarray>
 
 The C++ STL Library
-[ ] C++ Library - <array>
-[ ] C++ Library - <bitset>
+[x] C++ Library - <array>
+[x] C++ Library - <bitset>
 [ ] C++ Library - <deque>
 [ ] C++ Library - <forward_list>
 [ ] C++ Library - <list>

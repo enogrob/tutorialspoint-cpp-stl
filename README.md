@@ -16,49 +16,49 @@ This is to grasp rapidly the language and its concepts.
 #### Topics
 ```
 The C++ Standard Library
-[ ] C++ Library - Home
-[ ] C++ Library - <fstream>
-[ ] C++ Library - <iomanip>
-[ ] C++ Library - <ios>
-[ ] C++ Library - <iosfwd>
-[ ] C++ Library - <iostream>
-[ ] C++ Library - <istream>
-[ ] C++ Library - <ostream>
-[ ] C++ Library - <sstream>
-[ ] C++ Library - <streambuf>
-[ ] C++ Library - <atomic>
-[ ] C++ Library - <complex>
-[ ] C++ Library - <exception>
-[ ] C++ Library - <functional>
-[ ] C++ Library - <limits>
-[ ] C++ Library - <locale>
-[ ] C++ Library - <memory>
-[ ] C++ Library - <new>
-[ ] C++ Library - <numeric>
-[ ] C++ Library - <regex>
-[ ] C++ Library - <stdexcept>
-[ ] C++ Library - <string>
-[ ] C++ Library - <thread>
-[ ] C++ Library - <tuple>
-[ ] C++ Library - <typeinfo>
-[ ] C++ Library - <utility>
-[ ] C++ Library - <valarray>
+[ ] Home
+[ ] <fstream>
+[ ] <iomanip>
+[ ] <ios>
+[ ] <iosfwd>
+[ ] <iostream>
+[ ] <istream>
+[ ] <ostream>
+[ ] <sstream>
+[ ] <streambuf>
+[ ] <atomic>
+[ ] <complex>
+[ ] <exception>
+[ ] <functional>
+[ ] <limits>
+[ ] <locale>
+[ ] <memory>
+[ ] <new>
+[ ] <numeric>
+[ ] <regex>
+[ ] <stdexcept>
+[ ] <string>
+[ ] <thread>
+[ ] <tuple>
+[ ] <typeinfo>
+[ ] <utility>
+[ ] <valarray>
 
 The C++ STL Library
-[x] C++ Library - <array>
-[x] C++ Library - <bitset>
-[ ] C++ Library - <deque>
-[ ] C++ Library - <forward_list>
-[ ] C++ Library - <list>
-[ ] C++ Library - <map>
-[ ] C++ Library - <queue>
-[ ] C++ Library - <set>
-[ ] C++ Library - <stack>
-[ ] C++ Library - <unordered_map>
-[ ] C++ Library - <unordered_set>
-[ ] C++ Library - <vector>
-[ ] C++ Library - <algorithm>
-[ ] C++ Library - <iterator>
+[x] <array>
+[x] <bitset>
+[ ] <deque>
+[ ] <forward_list>
+[ ] <list>
+[ ] <map>
+[ ] <queue>
+[ ] <set>
+[ ] <stack>
+[ ] <unordered_map>
+[ ] <unordered_set>
+[ ] <vector>
+[ ] <algorithm>
+[ ] <iterator>
 
 C++ Programming Resources
 [ ] C++ Programming Tutorial

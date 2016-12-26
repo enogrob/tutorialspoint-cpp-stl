@@ -16,8 +16,8 @@ This is to grasp rapidly the language and its concepts.
 #### Topics
 ```
 The C++ Standard Library
-[ ] Home
-[ ] <fstream>
+[x] Home
+[x] <fstream>
 [ ] <iomanip>
 [ ] <ios>
 [ ] <iosfwd>
@@ -72,4 +72,3 @@ C++ Programming Resources
 [ ] Computer Glossary
 [ ] Who is Who
 ```
-

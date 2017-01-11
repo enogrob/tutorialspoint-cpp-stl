@@ -18,7 +18,7 @@ This is to grasp rapidly the language and its concepts.
 The C++ Standard Library
 [x] Home
 [x] <fstream>
-[ ] <iomanip>
+[x] <iomanip>
 [ ] <ios>
 [ ] <iosfwd>
 [ ] <iostream>

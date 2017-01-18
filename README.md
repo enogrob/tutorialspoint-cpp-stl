@@ -19,7 +19,7 @@ The C++ Standard Library
 [x] Home
 [x] <fstream>
 [x] <iomanip>
-[ ] <ios>
+[x] <ios>
 [ ] <iosfwd>
 [ ] <iostream>
 [ ] <istream>
@@ -43,7 +43,6 @@ The C++ Standard Library
 [ ] <typeinfo>
 [ ] <utility>
 [ ] <valarray>
-
 The C++ STL Library
 [x] <array>
 [x] <bitset>
@@ -59,7 +58,6 @@ The C++ STL Library
 [ ] <vector>
 [ ] <algorithm>
 [ ] <iterator>
-
 C++ Programming Resources
 [ ] C++ Programming Tutorial
 [ ] C++ Useful Resources
